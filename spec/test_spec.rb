@@ -1,5 +1,5 @@
-require 'rspec'
 require_relative '../test'
+require 'rspec'
 
 RSpec.describe TestMath do
   describe '.add' do
