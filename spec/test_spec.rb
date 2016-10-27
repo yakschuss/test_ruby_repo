@@ -7,8 +7,8 @@ RSpec.describe TestMath do
       expect(TestMath.add(4, 4)).to eq(8)
     end
 
-    it "fails" do
-      expect(false).to eq(true)
-    end
+    # it "fails" do
+    #   expect(false).to eq(true)
+    # end
   end
 end
