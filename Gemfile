@@ -1,2 +1,2 @@
 source 'https://rubygems.org'
-gem 'rspec-core'
+gem 'rspec', '~> 3.4'
